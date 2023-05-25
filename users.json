@@ -1,0 +1,33 @@
+[{
+  "_id": {
+    "$oid": "63abe8a9c0e3a310f012a31a"
+  },
+  "role": "admin",
+  "name": "Ankitsingh",
+  "email": "don678447@gmail.com",
+  "password": "$2a$10$sH7DPTFz6gRfh6hqGbqrceG2AYnn7.s1TpAGpfv4p18onFikYAt2.",
+  "avatar": {
+    "public_id": "avatars/tc1w89um3xepbqjvrgxd",
+    "url": "https://res.cloudinary.com/dz49w5rfj/image/upload/v1672210601/avatars/tc1w89um3xepbqjvrgxd.png"
+  },
+  "createdAt": {
+    "$date": "2022-12-28T06:56:41.750Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63abe9f3c0e3a310f012a335"
+  },
+  "role": "admin",
+  "name": "Test User",
+  "email": "bishtak512@gmail.com",
+  "password": "$2a$10$wRdEHCIOvbk60mYTLRScl.lZsTaLlxDfBgfdPisxKXWs6ksut42N.",
+  "avatar": {
+    "public_id": "avatars/wl9ec1ltlhf4f5upehbg",
+    "url": "https://res.cloudinary.com/dz49w5rfj/image/upload/v1672210930/avatars/wl9ec1ltlhf4f5upehbg.png"
+  },
+  "createdAt": {
+    "$date": "2022-12-28T07:02:11.560Z"
+  },
+  "__v": 0
+}]

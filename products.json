@@ -1,0 +1,776 @@
+[{
+  "_id": {
+    "$oid": "63add9155749aa474c6d2958"
+  },
+  "ratings": 0,
+  "Stock": 200,
+  "numOfReviews": 0,
+  "name": "Aashirvaad Instant Mix Rice Dosa",
+  "price": 72,
+  "description": "200g Pack, Easy to Make 8 Crispy Rice Dosas in Just 3 Steps\r\n",
+  "category": "Packaged Food",
+  "images": [
+    {
+      "_id": {
+        "$oid": "63add9155749aa474c6d2959"
+      },
+      "public_id": "products/wxh2anzjipuyuedaudt5",
+      "url": "https://res.cloudinary.com/dz49w5rfj/image/upload/v1672337683/products/wxh2anzjipuyuedaudt5.jpg"
+    },
+    {
+      "_id": {
+        "$oid": "63add9155749aa474c6d295a"
+      },
+      "public_id": "products/eyw25ylkvyixc1je41rc",
+      "url": "https://res.cloudinary.com/dz49w5rfj/image/upload/v1672337684/products/eyw25ylkvyixc1je41rc.jpg"
+    }
+  ],
+  "user": {
+    "$oid": "63abe8a9c0e3a310f012a31a"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2022-12-29T18:14:45.948Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63add9d05749aa474c6d2975"
+  },
+  "ratings": 0,
+  "Stock": 200,
+  "numOfReviews": 0,
+  "name": "Mumbai Dal Khichdi Tadka in Desi ghee| Ready to Eat",
+  "price": 329,
+  "description": "Pack of 2 * 300 gm Each| Serves 2|Instant Food |Packaged Meal|Spicy|Bhaat",
+  "category": "Packaged Food",
+  "images": [
+    {
+      "_id": {
+        "$oid": "63add9d05749aa474c6d2976"
+      },
+      "public_id": "products/xmugowlyvb7e2yd0mcgk",
+      "url": "https://res.cloudinary.com/dz49w5rfj/image/upload/v1672337869/products/xmugowlyvb7e2yd0mcgk.jpg"
+    },
+    {
+      "_id": {
+        "$oid": "63add9d05749aa474c6d2977"
+      },
+      "public_id": "products/zw3augdew7lmmou69owz",
+      "url": "https://res.cloudinary.com/dz49w5rfj/image/upload/v1672337871/products/zw3augdew7lmmou69owz.jpg"
+    }
+  ],
+  "user": {
+    "$oid": "63abe8a9c0e3a310f012a31a"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2022-12-29T18:17:52.367Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63adda4c5749aa474c6d2980"
+  },
+  "ratings": 5,
+  "Stock": 248,
+  "numOfReviews": 1,
+  "name": "Aloo Matar, ITC Ready to Eat Indian Dish",
+  "price": 93,
+  "description": "Kitchens of India Aloo Matar, ITC Ready to Eat Indian Dish, Just Heat and Eat, 285g\r\nGet ready to relish an all-time favourite dish with Kitchens of India Aloo Matar. This classic curry is presented to you in a convenient ready to eat pack that can be enjoyed any given day or meal.\r\n",
+  "category": "Packaged Food",
+  "images": [
+    {
+      "_id": {
+        "$oid": "63adda4c5749aa474c6d2981"
+      },
+      "public_id": "products/x9zlsifte3zjtzwxdddq",
+      "url": "https://res.cloudinary.com/dz49w5rfj/image/upload/v1672337993/products/x9zlsifte3zjtzwxdddq.jpg"
+    },
+    {
+      "_id": {
+        "$oid": "63adda4c5749aa474c6d2982"
+      },
+      "public_id": "products/wnugb3g93gvs3t5pjtlu",
+      "url": "https://res.cloudinary.com/dz49w5rfj/image/upload/v1672337995/products/wnugb3g93gvs3t5pjtlu.jpg"
+    }
+  ],
+  "user": {
+    "$oid": "63abe8a9c0e3a310f012a31a"
+  },
+  "reviews": [
+    {
+      "_id": {
+        "$oid": "63c0bb947dba3133f8908fa6"
+      },
+      "user": {
+        "$oid": "63abe8a9c0e3a310f012a31a"
+      },
+      "name": "Ankitsingh",
+      "rating": 5,
+      "comment": ""
+    }
+  ],
+  "createdAt": {
+    "$date": "2022-12-29T18:19:56.247Z"
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "63adda9f5749aa474c6d298b"
+  },
+  "ratings": 0,
+  "Stock": 299,
+  "numOfReviews": 0,
+  "name": "Gits Ready to Eat Dal Makhani",
+  "price": 342,
+  "description": "Gits Ready to Eat Dal Makhani, Pure Veg Heat and Eat Indian Meal, Microwaveable, 900g (Pack of 3, 300g Each)\r\n",
+  "category": "Packaged Food",
+  "images": [
+    {
+      "_id": {
+        "$oid": "63adda9f5749aa474c6d298c"
+      },
+      "public_id": "products/ungbwzn2kozzcqil3vml",
+      "url": "https://res.cloudinary.com/dz49w5rfj/image/upload/v1672338076/products/ungbwzn2kozzcqil3vml.jpg"
+    },
+    {
+      "_id": {
+        "$oid": "63adda9f5749aa474c6d298d"
+      },
+      "public_id": "products/mpi3ncoudhl5tljwyat2",
+      "url": "https://res.cloudinary.com/dz49w5rfj/image/upload/v1672338078/products/mpi3ncoudhl5tljwyat2.jpg"
+    }
+  ],
+  "user": {
+    "$oid": "63abe8a9c0e3a310f012a31a"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2022-12-29T18:21:19.165Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63addaef5749aa474c6d2996"
+  },
+  "ratings": 0,
+  "Stock": 300,
+  "numOfReviews": 0,
+  "name": "Veggie Upma Cup 80g",
+  "price": 46,
+  "description": "Aashirvaad Instant Meals Veggie Upma Cup 80g, Ready to Eat Indian Breakfast\r\n",
+  "category": "Packaged Food",
+  "images": [
+    {
+      "_id": {
+        "$oid": "63addaef5749aa474c6d2997"
+      },
+      "public_id": "products/acgn0oprrpbpwpd8nooa",
+      "url": "https://res.cloudinary.com/dz49w5rfj/image/upload/v1672338154/products/acgn0oprrpbpwpd8nooa.jpg"
+    },
+    {
+      "_id": {
+        "$oid": "63addaef5749aa474c6d2998"
+      },
+      "public_id": "products/gm8g231nh4uwqeupj7mb",
+      "url": "https://res.cloudinary.com/dz49w5rfj/image/upload/v1672338156/products/gm8g231nh4uwqeupj7mb.jpg"
+    },
+    {
+      "_id": {
+        "$oid": "63addaef5749aa474c6d2999"
+      },
+      "public_id": "products/xeinmshssbakgvozszrt",
+      "url": "https://res.cloudinary.com/dz49w5rfj/image/upload/v1672338158/products/xeinmshssbakgvozszrt.jpg"
+    }
+  ],
+  "user": {
+    "$oid": "63abe8a9c0e3a310f012a31a"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2022-12-29T18:22:39.759Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63addbbf51ceb352e86dd8df"
+  },
+  "ratings": 0,
+  "Stock": 145,
+  "numOfReviews": 0,
+  "name": "Nestle a+ Nourish Toned Milk, 1Ltr",
+  "price": 91,
+  "description": "Nestlé a+ Nourish Milk comes with the goodness of Calcium and Protein. Organic:No",
+  "category": "Dairy, Bread & Eggs",
+  "images": [
+    {
+      "_id": {
+        "$oid": "63addbbf51ceb352e86dd8e0"
+      },
+      "public_id": "products/scufwqg0cp68wcrerzjv",
+      "url": "https://res.cloudinary.com/dz49w5rfj/image/upload/v1672338364/products/scufwqg0cp68wcrerzjv.jpg"
+    },
+    {
+      "_id": {
+        "$oid": "63addbbf51ceb352e86dd8e1"
+      },
+      "public_id": "products/rndcqytg9r7p6y05pcky",
+      "url": "https://res.cloudinary.com/dz49w5rfj/image/upload/v1672338366/products/rndcqytg9r7p6y05pcky.jpg"
+    }
+  ],
+  "user": {
+    "$oid": "63abe8a9c0e3a310f012a31a"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2022-12-29T18:26:07.739Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63addc2051ceb352e86dd8ea"
+  },
+  "ratings": 0,
+  "Stock": 100,
+  "numOfReviews": 0,
+  "name": "Amul Gold Milk - Homogenized Standardized, 1L Carton",
+  "price": 75,
+  "description": "Amul Milk is the most hygienic liquid milk available in the market. Storage Condition : Under refrigeration (below 8 °C)",
+  "category": "Dairy, Bread & Eggs",
+  "images": [
+    {
+      "_id": {
+        "$oid": "63addc2051ceb352e86dd8eb"
+      },
+      "public_id": "products/qvs1torr0uqkg7d7uuag",
+      "url": "https://res.cloudinary.com/dz49w5rfj/image/upload/v1672338461/products/qvs1torr0uqkg7d7uuag.webp"
+    },
+    {
+      "_id": {
+        "$oid": "63addc2051ceb352e86dd8ec"
+      },
+      "public_id": "products/fzwmvja2gmctcl64ezuq",
+      "url": "https://res.cloudinary.com/dz49w5rfj/image/upload/v1672338463/products/fzwmvja2gmctcl64ezuq.jpg"
+    }
+  ],
+  "user": {
+    "$oid": "63abe8a9c0e3a310f012a31a"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2022-12-29T18:27:44.405Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63addc8651ceb352e86dd900"
+  },
+  "ratings": 0,
+  "Stock": 200,
+  "numOfReviews": 0,
+  "name": "English Oven Brown Bread, 400 g",
+  "price": 50,
+  "description": "Made from selected golden grains\r\nNo artificial colour & flavour\r\nGoodness of roasted cereal flour",
+  "category": "Dairy, Bread & Eggs",
+  "images": [
+    {
+      "_id": {
+        "$oid": "63addc8651ceb352e86dd901"
+      },
+      "public_id": "products/md79o9ns7iosfiyuqeci",
+      "url": "https://res.cloudinary.com/dz49w5rfj/image/upload/v1672338565/products/md79o9ns7iosfiyuqeci.jpg"
+    }
+  ],
+  "user": {
+    "$oid": "63abe8a9c0e3a310f012a31a"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2022-12-29T18:29:26.196Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63addcd451ceb352e86dd90a"
+  },
+  "ratings": 0,
+  "Stock": 250,
+  "numOfReviews": 0,
+  "name": "English Oven Mutigrain Bread, 400 g",
+  "price": 57,
+  "description": "Goodness of 7 grains\r\nWhole grains helps digestion and fight bad cholesterol\r\nFreshly baked",
+  "category": "Dairy, Bread & Eggs",
+  "images": [
+    {
+      "_id": {
+        "$oid": "63addcd451ceb352e86dd90b"
+      },
+      "public_id": "products/oz9yn9pt3usekik9p3vb",
+      "url": "https://res.cloudinary.com/dz49w5rfj/image/upload/v1672338643/products/oz9yn9pt3usekik9p3vb.jpg"
+    }
+  ],
+  "user": {
+    "$oid": "63abe8a9c0e3a310f012a31a"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2022-12-29T18:30:44.904Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63addd8651ceb352e86dd914"
+  },
+  "ratings": 0,
+  "Stock": 200,
+  "numOfReviews": 0,
+  "name": "Fresh Eggs, Pack of 30",
+  "price": 240,
+  "description": "Fresh Eggs Straight From The Farm",
+  "category": "Dairy, Bread & Eggs",
+  "images": [
+    {
+      "_id": {
+        "$oid": "63addd8651ceb352e86dd915"
+      },
+      "public_id": "products/hghphqsxffkf5mcxaxsl",
+      "url": "https://res.cloudinary.com/dz49w5rfj/image/upload/v1672338821/products/hghphqsxffkf5mcxaxsl.jpg"
+    }
+  ],
+  "user": {
+    "$oid": "63abe8a9c0e3a310f012a31a"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2022-12-29T18:33:42.095Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ade2f851ceb352e86dd979"
+  },
+  "ratings": 0,
+  "Stock": 700,
+  "numOfReviews": 0,
+  "name": "Tata Tea Premium | 1.5kg",
+  "price": 467,
+  "description": "Tata Tea Premium | Desh Ki Chai | Unique Blend Crafted For Chai Lovers Across India | Black Tea | 1.5kg",
+  "category": "Dairy, Bread & Eggs",
+  "images": [
+    {
+      "_id": {
+        "$oid": "63ade2f851ceb352e86dd97a"
+      },
+      "public_id": "products/nlrixotkusrojzvcigf1",
+      "url": "https://res.cloudinary.com/dz49w5rfj/image/upload/v1672340213/products/nlrixotkusrojzvcigf1.jpg"
+    },
+    {
+      "_id": {
+        "$oid": "63ade2f851ceb352e86dd97b"
+      },
+      "public_id": "products/vwxhbkugqbrdbdf0l2iq",
+      "url": "https://res.cloudinary.com/dz49w5rfj/image/upload/v1672340215/products/vwxhbkugqbrdbdf0l2iq.jpg"
+    }
+  ],
+  "user": {
+    "$oid": "63abe8a9c0e3a310f012a31a"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2022-12-29T18:56:56.004Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ade34451ceb352e86dd984"
+  },
+  "ratings": 0,
+  "Stock": 500,
+  "numOfReviews": 0,
+  "name": "Wagh Bakri Premium Leaf Tea Pack, 1kg",
+  "price": 529,
+  "description": "PREMIUM QUALITY: Wagh Bakri Premium Leaf Tea is known for its top-notch quality for over 100 years;DELIGHT IN EVERY CUP: Enjoy a consistent, strong taste in every cup\r\n",
+  "category": "Tea & Coffee",
+  "images": [
+    {
+      "_id": {
+        "$oid": "63ade34451ceb352e86dd985"
+      },
+      "public_id": "products/vthxrn3y38jaqf5gdbls",
+      "url": "https://res.cloudinary.com/dz49w5rfj/image/upload/v1672340289/products/vthxrn3y38jaqf5gdbls.jpg"
+    },
+    {
+      "_id": {
+        "$oid": "63ade34451ceb352e86dd986"
+      },
+      "public_id": "products/s25dt8cqknnyypayoewy",
+      "url": "https://res.cloudinary.com/dz49w5rfj/image/upload/v1672340291/products/s25dt8cqknnyypayoewy.jpg"
+    }
+  ],
+  "user": {
+    "$oid": "63abe8a9c0e3a310f012a31a"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2022-12-29T18:58:12.983Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ade38051ceb352e86dd98f"
+  },
+  "ratings": 0,
+  "Stock": 400,
+  "numOfReviews": 0,
+  "name": "Tata Tea Gold | Black Tea | 1 kg",
+  "price": 545,
+  "description": "Tata Tea Gold |Premium Assam teas with Gently  Rolled Aromatic Long Leaves | Rich & Aromatic Chai |Black Tea | 1 kg\r\n",
+  "category": "Tea & Coffee",
+  "images": [
+    {
+      "_id": {
+        "$oid": "63ade38051ceb352e86dd990"
+      },
+      "public_id": "products/y1pvwwdwqw3irq0zpvjm",
+      "url": "https://res.cloudinary.com/dz49w5rfj/image/upload/v1672340349/products/y1pvwwdwqw3irq0zpvjm.jpg"
+    },
+    {
+      "_id": {
+        "$oid": "63ade38051ceb352e86dd991"
+      },
+      "public_id": "products/fnkog5juqtm7u5g9akq8",
+      "url": "https://res.cloudinary.com/dz49w5rfj/image/upload/v1672340351/products/fnkog5juqtm7u5g9akq8.jpg"
+    }
+  ],
+  "user": {
+    "$oid": "63abe8a9c0e3a310f012a31a"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2022-12-29T18:59:12.275Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ade40751ceb352e86dd99a"
+  },
+  "ratings": 0,
+  "Stock": 400,
+  "numOfReviews": 0,
+  "name": "Nescafé Classic Black Roast Instant Coffee | 95g /100 g Dawn Jar",
+  "price": 345,
+  "description": "Nescafé Classic Black Roast Instant Coffee, Rich & Dark - 95g /100 g Dawn Jar | 100% Pure Soluble Coffee Powder (Weight May Vary)\r\n",
+  "category": "Tea & Coffee",
+  "images": [
+    {
+      "_id": {
+        "$oid": "63ade40751ceb352e86dd99b"
+      },
+      "public_id": "products/prfbnktved2rni1izzcj",
+      "url": "https://res.cloudinary.com/dz49w5rfj/image/upload/v1672340484/products/prfbnktved2rni1izzcj.jpg"
+    },
+    {
+      "_id": {
+        "$oid": "63ade40751ceb352e86dd99c"
+      },
+      "public_id": "products/vdxwp3igimtnxtziddv5",
+      "url": "https://res.cloudinary.com/dz49w5rfj/image/upload/v1672340486/products/vdxwp3igimtnxtziddv5.jpg"
+    }
+  ],
+  "user": {
+    "$oid": "63abe8a9c0e3a310f012a31a"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2022-12-29T19:01:27.549Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ade44051ceb352e86dd9a5"
+  },
+  "ratings": 0,
+  "Stock": 400,
+  "numOfReviews": 0,
+  "name": "Nescafé Classic Instant Powder Coffee, 200g Dawn Jar",
+  "price": 576,
+  "description": "Start your day right with the first sip of this classic that awakens your senses to new opportunities. Organic: No",
+  "category": "Tea & Coffee",
+  "images": [
+    {
+      "_id": {
+        "$oid": "63ade44051ceb352e86dd9a6"
+      },
+      "public_id": "products/wxqhbu4fjtt9hvg8oeok",
+      "url": "https://res.cloudinary.com/dz49w5rfj/image/upload/v1672340541/products/wxqhbu4fjtt9hvg8oeok.jpg"
+    },
+    {
+      "_id": {
+        "$oid": "63ade44051ceb352e86dd9a7"
+      },
+      "public_id": "products/v4rihh0k3r2h2wujytk8",
+      "url": "https://res.cloudinary.com/dz49w5rfj/image/upload/v1672340543/products/v4rihh0k3r2h2wujytk8.jpg"
+    }
+  ],
+  "user": {
+    "$oid": "63abe8a9c0e3a310f012a31a"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2022-12-29T19:02:24.279Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ade4c351ceb352e86dd9b0"
+  },
+  "ratings": 0,
+  "Stock": 333,
+  "numOfReviews": 0,
+  "name": "Scotch-Brite Plastic Kitchen Wiper (Grey)",
+  "price": 150,
+  "description": "Streak free single swipe clean for a instant dry surface\r\n",
+  "category": "Home Needs",
+  "images": [
+    {
+      "_id": {
+        "$oid": "63ade4c351ceb352e86dd9b1"
+      },
+      "public_id": "products/vwcygt8or7e4etf4s2hr",
+      "url": "https://res.cloudinary.com/dz49w5rfj/image/upload/v1672340674/products/vwcygt8or7e4etf4s2hr.jpg"
+    }
+  ],
+  "user": {
+    "$oid": "63abe8a9c0e3a310f012a31a"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2022-12-29T19:04:35.660Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ade50451ceb352e86dd9ba"
+  },
+  "ratings": 0,
+  "Stock": 345,
+  "numOfReviews": 0,
+  "name": "Scotch-Brite Sponge Wipe",
+  "price": 320,
+  "description": "Scotch-Brite Sponge Wipe, Pack of 5 (Color and Print May Vary)",
+  "category": "Home Needs",
+  "images": [
+    {
+      "_id": {
+        "$oid": "63ade50451ceb352e86dd9bb"
+      },
+      "public_id": "products/otmcrzxfup5y4jo7a0uw",
+      "url": "https://res.cloudinary.com/dz49w5rfj/image/upload/v1672340737/products/otmcrzxfup5y4jo7a0uw.jpg"
+    },
+    {
+      "_id": {
+        "$oid": "63ade50451ceb352e86dd9bc"
+      },
+      "public_id": "products/jksqcuqikyui2lvcvhxd",
+      "url": "https://res.cloudinary.com/dz49w5rfj/image/upload/v1672340739/products/jksqcuqikyui2lvcvhxd.jpg"
+    }
+  ],
+  "user": {
+    "$oid": "63abe8a9c0e3a310f012a31a"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2022-12-29T19:05:40.670Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ade54f51ceb352e86dd9c5"
+  },
+  "ratings": 0,
+  "Stock": 500,
+  "numOfReviews": 0,
+  "name": "Scotch-Brite No-Dust Broom",
+  "price": 300,
+  "description": "Scotch-Brite No-Dust Broom, Long handle, Easy floor cleaning (Multi-use)",
+  "category": "Home Needs",
+  "images": [
+    {
+      "_id": {
+        "$oid": "63ade54f51ceb352e86dd9c6"
+      },
+      "public_id": "products/m7aw80zt58zvzh8k6i5w",
+      "url": "https://res.cloudinary.com/dz49w5rfj/image/upload/v1672340811/products/m7aw80zt58zvzh8k6i5w.jpg"
+    },
+    {
+      "_id": {
+        "$oid": "63ade54f51ceb352e86dd9c7"
+      },
+      "public_id": "products/nrrxiapgbeukqfruoxii",
+      "url": "https://res.cloudinary.com/dz49w5rfj/image/upload/v1672340814/products/nrrxiapgbeukqfruoxii.jpg"
+    }
+  ],
+  "user": {
+    "$oid": "63abe8a9c0e3a310f012a31a"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2022-12-29T19:06:55.287Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ade58b51ceb352e86dd9d0"
+  },
+  "ratings": 0,
+  "Stock": 500,
+  "numOfReviews": 0,
+  "name": "ZooY Smarty 2 in 1 Soap Dispenser",
+  "price": 149,
+  "description": "ZooY Smarty 2 in 1 Soap Dispenser for Dishwasher Liquid Holder , Liquid Dispenser Through Pump ( Multi-Color , 400 ML) with Sponge",
+  "category": "Home Needs",
+  "images": [
+    {
+      "_id": {
+        "$oid": "63ade58b51ceb352e86dd9d1"
+      },
+      "public_id": "products/xnlqkfbnrish9gcnytvr",
+      "url": "https://res.cloudinary.com/dz49w5rfj/image/upload/v1672340874/products/xnlqkfbnrish9gcnytvr.jpg"
+    }
+  ],
+  "user": {
+    "$oid": "63abe8a9c0e3a310f012a31a"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2022-12-29T19:07:55.602Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ade6cc51ceb352e86dd9f2"
+  },
+  "ratings": 0,
+  "Stock": 100,
+  "numOfReviews": 0,
+  "name": "Scotch-Brite 2-in-1 Bucket Spin Mop (Green, 2 Refills), 4 Pcs",
+  "price": 1075,
+  "description": "Twin Bucket Spin Mop for easy wringing and rinsing\r\n",
+  "category": "Cleaning Essentials",
+  "images": [
+    {
+      "_id": {
+        "$oid": "63ade6cc51ceb352e86dd9f3"
+      },
+      "public_id": "products/zlwwmtjiovpfhnle3yyf",
+      "url": "https://res.cloudinary.com/dz49w5rfj/image/upload/v1672341194/products/zlwwmtjiovpfhnle3yyf.jpg"
+    }
+  ],
+  "user": {
+    "$oid": "63abe8a9c0e3a310f012a31a"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2022-12-29T19:13:16.025Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ade70b51ceb352e86dd9fc"
+  },
+  "ratings": 0,
+  "Stock": 200,
+  "numOfReviews": 0,
+  "name": "SOFTSPUN Microfiber Cleaning Cloths",
+  "price": 190,
+  "description": "SOFTSPUN Microfiber Cleaning Cloths 20x30cms 4pcs Towel Set 340GSM Multi-color. Highly Absorbent, Lint and Streak Free, Multipurpose Wash Cloth for Kitchen, Car, Window, Stainless Steel Silverware.\r\n",
+  "category": "Cleaning Essentials",
+  "images": [
+    {
+      "_id": {
+        "$oid": "63ade70b51ceb352e86dd9fd"
+      },
+      "public_id": "products/wydj4smszfpqj25slbn3",
+      "url": "https://res.cloudinary.com/dz49w5rfj/image/upload/v1672341255/products/wydj4smszfpqj25slbn3.jpg"
+    },
+    {
+      "_id": {
+        "$oid": "63ade70b51ceb352e86dd9fe"
+      },
+      "public_id": "products/h9bfftur5zeeuyqmdde5",
+      "url": "https://res.cloudinary.com/dz49w5rfj/image/upload/v1672341257/products/h9bfftur5zeeuyqmdde5.jpg"
+    }
+  ],
+  "user": {
+    "$oid": "63abe8a9c0e3a310f012a31a"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2022-12-29T19:14:19.095Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ade76b51ceb352e86dda07"
+  },
+  "ratings": 0,
+  "Stock": 200,
+  "numOfReviews": 0,
+  "name": "Lizol Disinfectant | 2L",
+  "price": 366,
+  "description": "Lizol Disinfectant Surface & Floor Cleaner Liquid, Lavender - 2L | Kills 99.9% Germs | India's #1 Floor Cleaner",
+  "category": "Cleaning Essentials",
+  "images": [
+    {
+      "_id": {
+        "$oid": "63ade76b51ceb352e86dda08"
+      },
+      "public_id": "products/h46hieege7vrogyiou9u",
+      "url": "https://res.cloudinary.com/dz49w5rfj/image/upload/v1672341354/products/h46hieege7vrogyiou9u.jpg"
+    }
+  ],
+  "user": {
+    "$oid": "63abe8a9c0e3a310f012a31a"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2022-12-29T19:15:55.279Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ade7ae51ceb352e86dda11"
+  },
+  "ratings": 0,
+  "Stock": 300,
+  "numOfReviews": 0,
+  "name": "Harpic Bathroom Cleaner | 1L (Pack of 2)",
+  "price": 310,
+  "description": "Harpic Disinfectant Bathroom Cleaner Liquid, Lemon - 1L (Pack of 2)",
+  "category": "Cleaning Essentials",
+  "images": [
+    {
+      "_id": {
+        "$oid": "63ade7ae51ceb352e86dda12"
+      },
+      "public_id": "products/spziar3mprq20eo3qbcn",
+      "url": "https://res.cloudinary.com/dz49w5rfj/image/upload/v1672341418/products/spziar3mprq20eo3qbcn.jpg"
+    },
+    {
+      "_id": {
+        "$oid": "63ade7ae51ceb352e86dda13"
+      },
+      "public_id": "products/jazg3v1b4ogqqmbxn0or",
+      "url": "https://res.cloudinary.com/dz49w5rfj/image/upload/v1672341421/products/jazg3v1b4ogqqmbxn0or.jpg"
+    }
+  ],
+  "user": {
+    "$oid": "63abe8a9c0e3a310f012a31a"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2022-12-29T19:17:02.422Z"
+  },
+  "__v": 0
+}]
